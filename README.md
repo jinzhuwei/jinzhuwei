@@ -1,7 +1,7 @@
 ## Hello and Welcome! 
 
 
-### I am Zhuzhu Wei (魏柱柱).
+
 
 - I am an enthusiastic problem solver and passionate advocate of scientific advancements. With a strong background in programming, I leverage this tool to contribute to the field of artificial intelligence (AI) in drug discovery.
 - I am active in open science (open source). My goal is to remove all the barriers in the way of knowledge.
